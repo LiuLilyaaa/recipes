@@ -1,2 +1,3 @@
 >ingredient: cucumber, tomato, red onion
 Parsely, lemon juice, and feta are also nice
+orange, apple, banana
